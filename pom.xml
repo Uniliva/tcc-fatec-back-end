@@ -4,6 +4,7 @@
    <groupId>br.com.fatecosasco.tcc</groupId>
    <artifactId>umonitor</artifactId>
    <packaging>war</packaging>
+    <version>1.0</version>
    <name>u-monitor</name>
    <description>Projeto de conclusão do curso de Redes</description>
    <parent>
